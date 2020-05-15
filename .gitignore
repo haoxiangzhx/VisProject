@@ -8,3 +8,7 @@ WikiVis/.ipynb_checkpoints/Untitled-checkpoint.ipynb
 WikiVis/AllenNLP - Demo.htm
 Screen Shot 2020-05-07 at 2.26.58 AM.png
 *.png
+*checkpoint.ipynb
+*.htm
+AutomateVis/wiki-news-300d-1M-subword.vec
+AutomateVis/wiki-news-300d-1M-subword.vec.zip
